@@ -54,26 +54,9 @@ I’m a **Linux-first developer** who enjoys building **clean, practical tools**
 - Improving Linux + Neovim workflow
 - Writing cleaner, more maintainable code
 - Learning systems concepts gradually
-
+  
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nandisomnath&show_icons=true&theme=tokyonight"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandisomnath&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
-
----
 
 ## Workflow Philosophy
 
