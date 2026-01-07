@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Somnath Nandi</h1>
-<h3 align="center">A passionate software developer from India</h3>
+# 👨‍💻 Somnath Nandi
 
-- 🔭 I’m currently working on [leet_code](https://github.com/nandisomnath/leet_code.git)
+> _"I automate things so I don’t have to repeat myself."_  
+> **CLI > GUI | Linux | Open Source Enthusiast**
 
-- 🌱 I’m currently learning **Database**
+![GitHub followers](https://img.shields.io/github/followers/nandisomnath?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/nandisomnath?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=nandisomnath&style=flat-square)
+![Arch Linux](https://img.shields.io/badge/Arch-Linux-blue?style=flat-square&logo=arch-linux)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-green?style=flat-square&logo=neovim)
 
-- 📝 I regularly write articles on [https://medium.com/@somnathnandi368](https://medium.com/@somnathnandi368)
+---
 
-- 💬 Ask me about **java**
+## 🧠 About Me
 
-- 📫 How to reach me **somnathnandi368@gmail.com**
+- 🐧 Daily Linux user (Arch btw)
+- ⚙️ Love building **CLI tools**
+- 🧩 Interested in **systems, automation & tooling**
+- ✍️ Learning by building & breaking things
+- 🤓 Terminal is my comfort zone
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/somnathnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnathnandi" height="30" width="40" /></a>
-<a href="https://instagram.com/_somnath_nandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_somnath_nandi" height="30" width="40" /></a>
-<a href="https://medium.com/@somnathnandi368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@somnathnandi368" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandisomnath&show_icons=true&locale=en" alt="nandisomnath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandisomnath&" alt="nandisomnath" /></p>
-
+```txt
+OS      : Arch Linux
+Editor  : Neovim (AstroNvim)
+Shell   : zsh / bash
+WM/DE   : KDE (but minimal)
