@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm Somnath Nandi 👋</h1>
 <p align="center">
-  <em>Linux • Developer • Open-source learner</em>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF75dAFEJ-2vQ/profile-displaybackgroundimage-shrink_350_1400/B56Zq6iOEmH8AY-/0/1764066126332?e=1769644800&v=beta&t=QfZ_631dCVr459p0am_Q4KkBlc56yZv0kIMqD2iA2Cc" alt="Banner" />
+</p>
+
+<h1 align="center">Somnath Nandi</h1>
+<p align="center">
+  <em>Linux user • Developer • Learning by building</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nandisomnath?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/nandisomnath?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=nandisomnath&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/nandisomnath?style=flat-square" alt="followers" />
+  <img src="https://img.shields.io/github/stars/nandisomnath?style=flat-square" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=nandisomnath&style=flat-square" alt="views" />
 </p>
 
 <p align="center">
@@ -17,57 +21,61 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
-I’m a **Linux user and developer** who enjoys building **simple, practical tools** and learning how things work under the hood.
+I’m a **Linux-first developer** who enjoys building **clean, practical tools** and improving workflows step by step.
 
-- 🐧 Linux daily driver (Arch)
-- 🧠 Interested in **systems, tooling & automation**
-- ⚙️ Prefer clean configs over heavy customization
-- 📚 Learning by doing & reading source code
-
-I enjoy **Neovim with LazyVim**, Git-based workflows, and keeping things minimal but productive.
+- Daily Arch Linux user
+- Neovim with **LazyVim** (productive, not over-customized)
+- Interested in tooling, automation, and systems
+- Prefer clarity, simplicity, and maintainability
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 **Languages**
 - Go
 - Python
 - Shell (Bash)
-- Learning: Rust
+- Learning Rust
 
-**Tools & Environment**
+**Environment**
+- Arch Linux
 - Neovim (LazyVim)
 - Git & GitHub
-- Linux CLI utilities
 - Docker (basics)
 
 ---
 
-## 📌 What I’m Working On
+## What I’m Focused On
 
-- Small developer utilities
-- CLI tools that solve real problems
-- Improving my Linux & Neovim workflow
-- Learning better software design
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandisomnath&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandisomnath&layout=compact&theme=tokyonight" />
-</p>
+- Developer utilities & small tools
+- Improving Linux + Neovim workflow
+- Writing cleaner, more maintainable code
+- Learning systems concepts gradually
 
 ---
 
-## 🧩 Workflow Philosophy
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nandisomnath&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandisomnath&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## Workflow Philosophy
 
 ```txt
 Simple > Complex
