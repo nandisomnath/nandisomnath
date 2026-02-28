@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF75dAFEJ-2vQ/profile-displaybackgroundimage-shrink_350_1400/B56Zq6iOEmH8AY-/0/1764066126332?e=1769644800&v=beta&t=QfZ_631dCVr459p0am_Q4KkBlc56yZv0kIMqD2iA2Cc" alt="Banner" />
-</p>
-
 <h1 align="center">Somnath Nandi</h1>
 <p align="center">
   <em>Linux user • Developer • Learning by building</em>
