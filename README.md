@@ -1,62 +1,39 @@
 <h1 align="center">Somnath Nandi</h1>
-<p align="center">
-  <em>Linux user • Developer • Learning by building</em>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nandisomnath?style=flat-square" alt="followers" />
-  <img src="https://img.shields.io/github/stars/nandisomnath?style=flat-square" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=nandisomnath&style=flat-square" alt="views" />
-</p>
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Arch-blue?style=flat-square&logo=arch-linux" />
-  <img src="https://img.shields.io/badge/Editor-Neovim-green?style=flat-square&logo=neovim" />
-  <img src="https://img.shields.io/badge/Config-LazyVim-7aa2f7?style=flat-square" />
-</p>
+<p align="left">I’m a Linux-first developer who enjoys building clean, practical tools and improving workflows step by step.</p>
 
----
+###
 
-## About Me
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
 
-I’m a **Linux-first developer** who enjoys building **clean, practical tools** and improving workflows step by step.
+###
 
-- Daily Arch Linux user
-- Neovim with **LazyVim** (productive, not over-customized)
-- Interested in tooling, automation, and systems
-- Prefer clarity, simplicity, and maintainability
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nandisomnath&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-## Tech & Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandisomnath/nandisomnath/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandisomnath/nandisomnath/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nandisomnath/nandisomnath/output/pacman-contribution-graph.svg">
+</picture>
 
-**Languages**
-- Go
-- Python
-- Shell (Bash)
-- Learning Rust
-
-**Environment**
-- Arch Linux
-- Neovim (LazyVim)
-- Git & GitHub
-- Docker (basics)
-
----
-
-## What I’m Focused On
-
-- Developer utilities & small tools
-- Improving Linux + Neovim workflow
-- Writing cleaner, more maintainable code
-- Learning systems concepts gradually
-  
----
-
-
-## Workflow Philosophy
-
-```txt
-Simple > Complex
-Readable > Clever
-Useful > Fancy
+###
